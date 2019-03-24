@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url("images/grayWeb.png");
+}
+
+h1 {
+    color: #dcdcdc;
+}
+
+.title-section {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.dylaneate {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+    font-weight: 500;
+    color: gainsboro;
+    font-stretch: wider;
+}
